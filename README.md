@@ -35,8 +35,11 @@ Saida:
   ]
 }
 ```
-## Reconhecimento Facial
-erro no processo do portal, seguido todos os pasos com conta nova, segue o link de problemas similares apontados
-https://learn.microsoft.com/en-us/answers/questions/1427093/bad-request-error-while-trying-out-azure-vision-st
+## Reconhecimento Facial e documentos
+
+![image1](https://github.com/MFLeandro/ai900/assets/66967643/9d61985e-cb88-4907-aa22-ac8e3f379e9e)
+![image2](https://github.com/MFLeandro/ai900/assets/66967643/9f9a4988-68ce-477f-8427-55db427b164e)
+
+
 
 
